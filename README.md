@@ -14,5 +14,10 @@ V1:
 - [Contract sol](https://github.com/Ekinoxis-evm/based-latam-2024/blob/main/RVRental.sol)
 
 
+**Coinbase Develiper Platform**
+- API Key Name: 87c57346-689f-4f8d-9bfc-3e66e9b761fb
+- Project ID: f239fd87-f24a-41ab-bcc5-72da4a572d93
 
-API Key Name Coinbase Developer Platform: 87c57346-689f-4f8d-9bfc-3e66e9b761fb
+- 
+
+
