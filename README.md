@@ -15,4 +15,4 @@ V1:
 
 
 
-API Key Name: organizations/b8309a0e-065b-486b-8c2e-88fcf192abde/apiKeys/87c57346-689f-4f8d-9bfc-3e66e9b761fb
+API Key Name Coinbase Developer Platform: 87c57346-689f-4f8d-9bfc-3e66e9b761fb
