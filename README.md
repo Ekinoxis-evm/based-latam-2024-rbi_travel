@@ -31,9 +31,33 @@ We have to main challenges:
 - Stablecoin Integration (USDC): RBI Travel leverages USDC (a USD-pegged stablecoin) for all transactions, ensuring that payments are fast, borderless, and stable, regardless of the traveler’s or owner’s location. This eliminates currency conversion fees and reduces processing times, allowing both parties to transact with confidence.
 - Transparency and Security with NFTs: Each rental agreement is represented as an NFT, which can be accessed and verified globally. This provides transparency and reduces potential disputes, as both parties have immutable proof of their agreement.
 
+## Challenges we ran into
+*tell us about any specific hurdles (technical or non-technical) you ran into with your project and how you overcame them (markdown supported)*
 
 
+## Additional Features
+*Write a comma separated list of technologies you used in building the project.*
 
+
+## Technologies we used
+*Write a comma separated list of technologies you used in building the project.*
+Onchain Kit, 
+
+## Links
+Add links to Github, website, App store e.t.c or wherever the project can be tested live
+
+
+## Video Demo
+Add link to video demoing the functioning of the project. or, record one using loom
+
+## Cover Image
+
+## Logo
+![RBI_Travel_Logo_Blue_Badge](https://github.com/user-attachments/assets/3efd0dec-ba26-4567-a7a4-ca508bcf0af8)
+
+
+## Banner
+![RBI_Travel_Banner_1200x630](https://github.com/user-attachments/assets/efe7f98f-9f0d-4edc-bb65-99add4805fbb)
 
 
 
@@ -43,10 +67,7 @@ We have to main challenges:
 We are providing travelers with a unique and convenient way to rent private RVs in airports using USDC.  Each RV is tokenized as an NFT, which users can purchase to gain access to the RV during their rental period. This NFT serves as a secure, verifiable key that guarantees access to the RV upon arrival, turning waiting time into a comfortable and private experience.
 
 By combining the power of USDC and blockchain technology, RVPay ensures a smooth, transparent, and secure rental process. Travelers can enjoy the luxury of their own private space while at the airport, whether they need a place to rest, work, or relax.  The use of NFTs ensures that each rental is uniquely tied to the user, offering both ownership and proof of access to their rented RV.
-
-
 Built on # based-latam-2024: https://based-latam.devfolio.co/overview 
-
 
 ### V1: First contract
 - [0x91A1eC33c59fdEC19C56448d3027b13a164A5C26](https://sepolia.basescan.org/address/0x91a1ec33c59fdec19c56448d3027b13a164a5c26)
