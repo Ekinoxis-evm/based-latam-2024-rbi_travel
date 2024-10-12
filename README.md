@@ -4,6 +4,7 @@ RBi Travel
 
 ## Tagline
 *Write a short, sharp and on point description of your project*
+
 Revolutionizing International Journeys with tokenized RV Rentals
 
 ## Why are you participating for Based LatAm?
