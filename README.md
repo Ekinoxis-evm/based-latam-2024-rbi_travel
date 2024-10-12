@@ -29,6 +29,9 @@ We have to main challenges:
 
 **USDC and Blockchain-Based Payments:**
 - Stablecoin Integration (USDC): RBI Travel leverages USDC (a USD-pegged stablecoin) for all transactions, ensuring that payments are fast, borderless, and stable, regardless of the traveler’s or owner’s location. This eliminates currency conversion fees and reduces processing times, allowing both parties to transact with confidence.
+- Transparency and Security with NFTs: Each rental agreement is represented as an NFT, which can be accessed and verified globally. This provides transparency and reduces potential disputes, as both parties have immutable proof of their agreement.
+
+
 
 
 
